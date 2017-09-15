@@ -1,5 +1,6 @@
 # DarculaTheme_Xcode
 IntelliJ's Darcula color theme for Xcode
+Slightly modified from https://github.com/meap/Darcula-Xcode-Theme and https://github.com/jesseXu/xcode-theme-Darcula
 
 Installation
 ------------
