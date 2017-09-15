@@ -5,7 +5,7 @@ Slightly modified from https://github.com/meap/Darcula-Xcode-Theme and https://g
 
 Installation
 ------------
-Copy *.dvtcolortheme file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
+Copy *.xccolortheme file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
 
     mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-    cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+    cp *.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
